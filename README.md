@@ -1,5 +1,28 @@
 # Autonomous Analysis
 ![Project Logo](img/image.png "Project Logo")
+  
+## Topic Background
+- " 자율주행의 시대가 다가오는 요즘, 급발진, 음주운전, 졸음운전등의 사고문제가 자율주행으로 해결될 수 있을까? " <br>
+  궁금증으로부터 저희의 프로젝트가 시작되었습니다.
+  <br>
+  <br>
+
+
+# 🚗 Autonomous Analysis (Team Project)
+
+이 프로젝트는 자율주행 차량의 사고 원인과 안전성에 대한 데이터 기반 분석을 목표로 한 4인 팀 프로젝트입니다.  
+본인은 팀의 **DB 설계**와 **데이터 시각화 및 분석**을 맡아 프로젝트의 핵심 분석 파트를 주도적으로 수행했습니다.
+
+🔗 원본 프로젝트: [addinedu-ros-8th/eda-repo-2](https://github.com/addinedu-ros-8th/eda-repo-2)
+
+
+| 이름      | 역할                                                  |
+| ------- | --------------------------------------------------- |
+| **이명운** | DB 설계 및 통합 분석 파이프라인 구축<br>데이터 시각화 및 인사이트 도출         |
+| 김가은     | **해외 (미국) 데이터 분석 및 시각화**<br>브랜드별 사고 건수, 자율주행 레벨별 분석 |
+| 권빛      | **국내 (한국) 데이터 분석 및 시각화**<br>도로 유형별 사고 비교 및 시계열 분석   |
+| 안혁준     | **팀장 / 데이터 수집 총괄**<br>미국·한국 교통사고 데이터 크롤링 및 전처리 담당   |
+
 
 ## Table of Contents
 - [Topic Background](#topic-background)
@@ -8,12 +31,7 @@
   <br>
   <br>
   <br>
-  
-## 🚘 Topic Background
-- " 자율주행의 시대가 다가오는 요즘, 급발진, 음주운전, 졸음운전등의 사고문제가 자율주행으로 해결될 수 있을까? " <br>
-  궁금증으로부터 저희의 프로젝트가 시작되었습니다.
-  <br>
-  <br>
+
 
 ## Data Analysis Strategy
 ### 📌 Scope Limitation 
